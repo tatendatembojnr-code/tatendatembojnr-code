@@ -1,27 +1,57 @@
-# Tatenda Edson Junior Tembo
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=042b6b&height=250&section=header&text=Tatenda%20Edson%20Junior%20Tembo&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Tatenda Header" />
+</p>
 
-### Senior Software Engineer | Odoo & Python Specialist | ERP Architect
+<!-- Title -->
+<h3 align="center">
+    <samp>
+        &gt; Hey There! I am
+        <b><a target="_blank" href="https://www.linkedin.com/in/tatenda-edson-jnr/">Tatenda Edson</a></b>
+    </samp>
+</h3>
 
-I am a backend architect specializing in Python and the Odoo framework. I build high-performance, scalable ERP ecosystems that solve complex, enterprise-level operational bottlenecks. My core focus is on bridging disparate platforms through robust API integrations and developing industry-specific modules from the ground up.
+<br>
 
-**Core Technical Stack**
-* **Languages & Frameworks:** Python, Django, Odoo Framework (Community & Enterprise)
-* **Database & Infrastructure:** PostgreSQL, Docker, Linux, Custom Server Automation
-* **Frontend:** QWeb, XML, JavaScript, HTML/CSS
+<p align="center">
+<samp>
+「 Senior Software Engineer building scalable ERP systems, API integrations, and robust Odoo architecture 」  
+</samp>
+</p>
 
-**Key Engineering Achievements**
-* **Government Compliance API:** Architected secure, real-time fiscalisation engines integrating Odoo directly with the Zimbabwe Revenue Authority (ZIMRA).
-* **Enterprise Synchronization:** Developed highly reliable offline-to-online sync engines connecting Odoo with Frappe, Sage, and various third-party Desktop POS systems.
-* **Specialized ERP Architecture:** Built comprehensive, end-to-end modules for Heavy Logistics (Trucking), Hospital Management, and complex Fleet/Job Card Tracking.
-* **DevOps & Infrastructure:** Engineered custom Windows deployment tools with centralized monitoring dashboards and automated database restoration handlers to ensure zero-data-loss.
+<!-- Animated Typing Text -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1500&color=043382&center=true&vCenter=true&width=900&lines=Senior+Odoo+Engineer;Architecting+Scalable+ERP+Platforms;Building+Complex+API+Integrations;Python+%7C+Django+%7C+PostgreSQL"
+    alt="Typing SVG"
+  />
+</p>
 
-**Contact Information**
-* Email: tatendatembojnr@gmail.com
-* Phone / WhatsApp: +263 718 910 821
+<!-- Tech GIF -->
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated tech visual">
+</p>
 
----
+<!-- Animated Divider -->
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/tatendatembojnr-code)
 
-### GitHub Metrics
+<br>
+
+### 🛠️ Core Technical Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+<br>
+
+<!-- Animated Divider -->
+[![divider](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/tatendatembojnr-code)
+
+### 📊 System Analytics (Live Dashboard)
 
 <!-- The action below will automatically replace this comment with your metrics -->
 ![Metrics](https://github.com/tatendatembojnr-code/tatendatembojnr-code/blob/main/github-metrics.svg)
