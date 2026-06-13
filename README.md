@@ -1,5 +1,6 @@
+<!-- Wavy Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=04103a&height=250&section=header&text=Tatenda%20Edson%20Junior%20Tembo&fontSize=60&fontColor=ffffff&animation=twinkling" alt="Tatenda Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=04103a&height=250&section=header&text=Tatenda%20Edson%20Tembo&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Senior%20Software%20Engineer&descSize=20&descAlignY=70" alt="Tatenda Header" />
 </p>
 
 <!-- Title -->
@@ -18,6 +19,7 @@
 </samp>
 </p>
 
+<!-- Typing Animation -->
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=36BCF7&center=true&vCenter=true&width=900&lines=Senior+Odoo+Engineer;Architecting+Scalable+ERP+Platforms;Building+Complex+API+Integrations;Python+%7C+Django+%7C+PostgreSQL"
@@ -30,18 +32,6 @@
 </p>
 
 [![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/tatendatembojnr-code)
-
-<!-- System Access Title SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/HiradEmami/master/docs/img/system_access_title.svg" width="100%" alt="System access section title" />
-</p>
-
-<!-- Core Dashboard SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/HiradEmami/master/docs/img/hirad_core.svg" width="100%" alt="System core panel" />
-</p>
-
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/tatendatembojnr-code)
 
 <!-- Project System Header SVG -->
 <p align="center">
@@ -69,6 +59,17 @@
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/tatendatembojnr-code)
 
-### 📊 System Analytics (Live Dashboard)
+### 📊 Vital Statistics
 
-![Metrics](https://github.com/tatendatembojnr-code/tatendatembojnr-code/blob/main/github-metrics.svg)
+<p align="center">
+  <!-- Josphat's Github Grade Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tatendatembojnr-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  
+  <!-- Hirad's Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tatendatembojnr-code&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <!-- Hirad's Activity Graph (The Purple Curve) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tatendatembojnr-code&bg_color=0D1117&color=b388ff&line=b388ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</p>
