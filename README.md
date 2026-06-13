@@ -3,16 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=04103a&height=250&section=header&text=Tatenda%20Edson%20Tembo&fontSize=60&fontColor=ffffff&animation=twinkling&desc=Senior%20Software%20Engineer&descSize=20&descAlignY=70" alt="Tatenda Header" />
 </p>
 
-<!-- Title -->
-<h3 align="center">
-    <samp>
-        &gt; Hey There!, I am
-        <b><a target="_blank" href="https://www.linkedin.com/in/tatenda-edson-jnr/">Tatenda Tembo</a></b>
-    </samp>
-</h3>
-
-<br>
-
 <p align="center">
 <samp>
 「 Senior Software Engineer building scalable ERP systems, API integrations, and robust Odoo architecture 」  
