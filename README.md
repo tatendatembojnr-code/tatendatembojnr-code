@@ -33,24 +33,6 @@
   <img src="https://raw.githubusercontent.com/HiradEmami/HiradEmami/master/docs/img/projects_system_header.svg" width="100%" alt="Projects system header" />
 </p>
 
-| Project Domain | Architecture & Implementation |
-| --- | --- |
-| 🇿🇼 **ZIMRA Tax Integration** | Secure, real-time fiscalisation engines integrating Odoo directly with the Zimbabwe Revenue Authority for strict compliance. |
-| 🔄 **Enterprise Sync** | Robust offline-to-online sync engines connecting Odoo with Frappe, Sage, and various third-party Desktop POS systems. |
-| 🚚 **Industry-Specific ERPs** | End-to-end custom modules handling Heavy Logistics (Trucking), Hospital Management, and complex Fleet/Job Card Tracking. |
-
-<br>
-
-<!-- Collab System Header SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HiradEmami/HiradEmami/master/docs/img/collab_system_header.svg" width="100%" alt="Collaboration system header" />
-</p>
-
-| Signal | What it means |
-| --- | --- |
-| `ERP ARCHITECTURE` | Designing robust database schemas and custom Odoo modules from the ground up. |
-| `SYSTEMS INTEGRATION`| Bridging disparate platforms (SaaS, POS, External APIs) into a single source of truth. |
-| `AUTOMATION` | Replacing manual financial, payroll, or inventory tasks with secure, automated Python workflows. |
 
 [![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/tatendatembojnr-code)
 
